@@ -240,4 +240,4 @@ This repository serves as the official landing page for Pokki. The software is d
 **Get the most recent version of Pokki today!**
 
 ---
-**Last updated:** 2026-09-23 16:22:10 UTC
+**Last updated:** 2026-09-23 19:59:46 UTC
